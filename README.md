@@ -1,2 +1,3 @@
-# Sparse_Fourier_based_algorithms
+# Sparse Fourier based algorithms
+
 Amplitude and phase estimations using Sparse Fourier based algorithms
